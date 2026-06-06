@@ -1,5 +1,30 @@
-# 💫 About Me:
-# Hi 👋, I'm SriVarshini<br><br>### 🚀 Computer Science Engineer | Flutter Developer | AI Enthusiast<br><br>Passionate about building innovative applications and exploring the future of Artificial Intelligence. Currently pursuing B.Tech in Computer Science Engineering and actively developing projects in Flutter, Web Development, and AI.<br><br>---<br><br>## 👨‍💻 About Me<br><br>- 🎓 B.Tech 2nd Year Computer Science Student<br>- 💻 Skilled in Java, Python, Flutter, Firebase, and React.js<br>- 📱 Building mobile and web applications<br>- 🤖 Exploring Generative AI, LLMs, and AI Agents<br>- 🎯 Goal: Secure an internship and crack top tech companies like Microsoft, Amazon, and Meta<br>- 🌱 Currently learning AI-powered application development<br>- 🚀 Working on AI-based Educational Video Generation Projects<br><br>---
+# 💫 About Me
+
+Hi 👋, I'm **SriVarshini**
+
+### 🚀 Computer Science Engineering Student | Developer | AI Enthusiast
+
+Passionate about building innovative applications and exploring the future of Artificial Intelligence. Currently pursuing B.Tech in Computer Science Engineering and actively developing projects in Ml, Web Development,Deep Learning  and AI.
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech 2nd Year Computer Science Engineering Student
+- 💻 Skilled in Java, Python, Flutter, Firebase, and React.js
+- 📱 Interested in Mobile App Development and Web Development
+- 🤖 Exploring Generative AI, LLMs, and AI Agents
+- 🚀 Building real-world projects to strengthen development skills
+- 🌱 Continuously learning new technologies and industry trends
+- 🎯 Aspiring to secure internships and opportunities at leading tech companies
+
+## 🚀 Current Focus
+
+- AI-Powered Applications
+- Full-Stack Development
+- Mobile App Development
+- Open Source Contributions
+- Problem Solving & DSA
+
+⭐ *"Learning, Building, and Growing Every Day."*
 
 
 # 💻 Tech Stack:
@@ -7,17 +32,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ScriptOrbit-132&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ScriptOrbit-132&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Script-132&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ScriptOrbit-132&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ScriptOrbit-132&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ScriptOrbit-132&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=ScriptOrbit-132&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
